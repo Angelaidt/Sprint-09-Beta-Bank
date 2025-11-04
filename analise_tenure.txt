@@ -1,0 +1,27 @@
+1. Quantidade de clientes em cada grupo:
+Tenure = 0: 382
+Tenure <= 1: 1334
+Tenure > 1 e <= 3: 1878
+Tenure > 3 e <= 5: 1812
+Tenure > 5: 4067
+Tenure ausente: 909
+
+2. Comparação de médias:
+
+Média de balance:
+- Clientes com tenure = 0: 80135.31
+- Clientes com tenure <= 1: 78158.45
+- Clientes com tenure > 1 e <= 3: 77294.60
+- Clientes com tenure > 3 e <= 5: 75159.03
+- Clientes com tenure > 5: 76237.38
+- Clientes com tenure ausente: 76117.34
+
+Média de exited:
+- Clientes com tenure = 0: 0.24
+- Clientes com tenure <= 1: 0.23
+- Clientes com tenure > 1 e <= 3: 0.20
+- Clientes com tenure > 3 e <= 5: 0.20
+- Clientes com tenure > 5: 0.20
+- Clientes com tenure ausente: 0.20
+
+Média de numofproducts:
